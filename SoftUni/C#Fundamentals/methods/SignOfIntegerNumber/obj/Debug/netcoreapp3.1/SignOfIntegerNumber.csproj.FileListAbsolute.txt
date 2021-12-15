@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.exe
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.deps.json
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.dll
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\bin\Debug\netcoreapp3.1\SignOfIntegerNumber.pdb
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.dll
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.pdb
+C:\Users\bkr7\source\repos\methods\SignOfIntegerNumber\obj\Debug\netcoreapp3.1\SignOfIntegerNumber.genruntimeconfig.cache

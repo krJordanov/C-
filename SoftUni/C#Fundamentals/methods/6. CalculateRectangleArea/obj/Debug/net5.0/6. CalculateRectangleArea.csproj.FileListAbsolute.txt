@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.exe
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.deps.json
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.dll
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\ref\6. CalculateRectangleArea.dll
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\bin\Debug\net5.0\6. CalculateRectangleArea.pdb
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.dll
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\ref\6. CalculateRectangleArea.dll
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.pdb
+C:\Users\bkr7\source\repos\methods\6. CalculateRectangleArea\obj\Debug\net5.0\6. CalculateRectangleArea.genruntimeconfig.cache

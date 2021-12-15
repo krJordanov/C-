@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.exe
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.deps.json
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.dll
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\ref\6. EvenAndOddSubtraction.dll
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\bin\Debug\net5.0\6. EvenAndOddSubtraction.pdb
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.dll
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\ref\6. EvenAndOddSubtraction.dll
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.pdb
+C:\Users\bkr7\source\repos\ArraysLab\6. EvenAndOddSubtraction\obj\Debug\net5.0\6. EvenAndOddSubtraction.genruntimeconfig.cache

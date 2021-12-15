@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache

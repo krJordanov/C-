@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.exe
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.deps.json
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.dll
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\bin\Debug\netcoreapp3.1\DrawFilledSquare.pdb
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.dll
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.pdb
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.genruntimeconfig.cache
+C:\Users\bkr7\source\repos\methods\DrawFilledSquare\obj\Debug\netcoreapp3.1\DrawFilledSquare.csproj.AssemblyReference.cache

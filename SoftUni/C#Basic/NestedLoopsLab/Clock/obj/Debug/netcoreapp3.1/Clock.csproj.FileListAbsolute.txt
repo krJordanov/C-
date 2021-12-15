@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\bkr7\source\repos\NestedLoopsLab\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

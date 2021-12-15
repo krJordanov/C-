@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.exe
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.deps.json
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.dll
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\ref\7. MaxSequenceОfEqualElements.dll
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\bin\Debug\net5.0\7. MaxSequenceОfEqualElements.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.dll
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\ref\7. MaxSequenceОfEqualElements.dll
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\7. MaxSequenceОfEqualElements\obj\Debug\net5.0\7. MaxSequenceОfEqualElements.genruntimeconfig.cache

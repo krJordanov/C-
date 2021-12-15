@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.exe
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.deps.json
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.json
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.dll
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.genruntimeconfig.cache

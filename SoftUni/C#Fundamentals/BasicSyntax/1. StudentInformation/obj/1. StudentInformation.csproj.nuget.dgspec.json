@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bkr7\\source\\repos\\BasicSyntax\\1. StudentInformation\\1. StudentInformation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bkr7\\source\\repos\\BasicSyntax\\1. StudentInformation\\1. StudentInformation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bkr7\\source\\repos\\BasicSyntax\\1. StudentInformation\\1. StudentInformation.csproj",
+        "projectName": "1. StudentInformation",
+        "projectPath": "C:\\Users\\bkr7\\source\\repos\\BasicSyntax\\1. StudentInformation\\1. StudentInformation.csproj",
+        "packagesPath": "C:\\Users\\bkr7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bkr7\\source\\repos\\BasicSyntax\\1. StudentInformation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bkr7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

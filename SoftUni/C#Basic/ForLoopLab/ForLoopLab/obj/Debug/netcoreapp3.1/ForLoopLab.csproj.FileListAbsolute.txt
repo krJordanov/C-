@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.exe
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.deps.json
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.runtimeconfig.json
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.dll
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\bin\Debug\netcoreapp3.1\ForLoopLab.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.dll
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\ForLoopLab\obj\Debug\netcoreapp3.1\ForLoopLab.genruntimeconfig.cache

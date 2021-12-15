@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.exe
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.deps.json
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.dll
+C:\Users\bkr7\source\repos\methods\BlankReceipt\bin\Debug\netcoreapp3.1\BlankReceipt.pdb
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.dll
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.pdb
+C:\Users\bkr7\source\repos\methods\BlankReceipt\obj\Debug\netcoreapp3.1\BlankReceipt.genruntimeconfig.cache

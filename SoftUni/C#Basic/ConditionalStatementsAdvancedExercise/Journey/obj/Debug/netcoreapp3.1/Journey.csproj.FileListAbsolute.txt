@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\Journey\obj\Debug\netcoreapp3.1\Journey.csprojAssemblyReference.cache

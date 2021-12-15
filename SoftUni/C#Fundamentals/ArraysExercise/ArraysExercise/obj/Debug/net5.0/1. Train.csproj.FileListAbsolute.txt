@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.exe
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.deps.json
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.dll
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\ref\1. Train.dll
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\bin\Debug\net5.0\1. Train.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.dll
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\ref\1. Train.dll
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\ArraysExercise\obj\Debug\net5.0\1. Train.genruntimeconfig.cache

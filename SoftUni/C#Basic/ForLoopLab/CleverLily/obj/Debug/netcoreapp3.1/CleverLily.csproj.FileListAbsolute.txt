@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache

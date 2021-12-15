@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.exe
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.deps.json
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.dll
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\ref\4. ReverseArrayOfStrings.dll
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\bin\Debug\net5.0\4. ReverseArrayOfStrings.pdb
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.dll
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\ref\4. ReverseArrayOfStrings.dll
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.pdb
+C:\Users\bkr7\source\repos\ArraysLab\4. ReverseArrayOfStrings\obj\Debug\net5.0\4. ReverseArrayOfStrings.genruntimeconfig.cache

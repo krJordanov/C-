@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.exe
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.deps.json
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.json
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.dll
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\bin\Debug\net5.0\BeerKegs.pdb
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.dll
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.pdb
+C:\Users\bkr7\source\repos\Exercise-DataTypesАndVariables\BeerKegs\obj\Debug\net5.0\BeerKegs.genruntimeconfig.cache

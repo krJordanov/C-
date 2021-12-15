@@ -1,0 +1,12 @@
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.exe
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.deps.json
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.runtimeconfig.json
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.dll
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\bin\Debug\netcoreapp3.1\DebugTheCode.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.dll
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\DebugTheCode\obj\Debug\netcoreapp3.1\DebugTheCode.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+C:\Users\bkr7\source\repos\WhileLoopExercise\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

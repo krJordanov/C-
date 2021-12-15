@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\bkr7\source\repos\ConditionalStatementsAdvancedExercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache

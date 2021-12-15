@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.exe
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\bkr7\source\repos\methods\methods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.dll
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.pdb
+C:\Users\bkr7\source\repos\methods\methods\obj\Debug\netcoreapp3.1\methods.genruntimeconfig.cache

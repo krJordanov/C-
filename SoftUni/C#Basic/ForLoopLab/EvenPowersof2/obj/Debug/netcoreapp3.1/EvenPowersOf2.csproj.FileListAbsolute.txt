@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.exe
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.deps.json
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.json
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.dll
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\bin\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.dll
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\EvenPowersof2\obj\Debug\netcoreapp3.1\EvenPowersOf2.genruntimeconfig.cache

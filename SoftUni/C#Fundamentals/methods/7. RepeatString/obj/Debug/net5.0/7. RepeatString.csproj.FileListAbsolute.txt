@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.exe
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.deps.json
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.dll
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\ref\7. RepeatString.dll
+C:\Users\bkr7\source\repos\methods\7. RepeatString\bin\Debug\net5.0\7. RepeatString.pdb
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.dll
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\ref\7. RepeatString.dll
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.pdb
+C:\Users\bkr7\source\repos\methods\7. RepeatString\obj\Debug\net5.0\7. RepeatString.genruntimeconfig.cache

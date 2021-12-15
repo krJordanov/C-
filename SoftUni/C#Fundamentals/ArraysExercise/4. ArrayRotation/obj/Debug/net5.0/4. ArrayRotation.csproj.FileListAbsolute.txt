@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.exe
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.deps.json
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.dll
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\ref\4. ArrayRotation.dll
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\bin\Debug\net5.0\4. ArrayRotation.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.dll
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\ref\4. ArrayRotation.dll
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.pdb
+C:\Users\bkr7\source\repos\ArraysExercise\4. ArrayRotation\obj\Debug\net5.0\4. ArrayRotation.genruntimeconfig.cache

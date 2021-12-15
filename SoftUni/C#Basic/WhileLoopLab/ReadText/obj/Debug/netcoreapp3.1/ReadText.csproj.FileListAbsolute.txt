@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\bkr7\source\repos\WhileLoopLab\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

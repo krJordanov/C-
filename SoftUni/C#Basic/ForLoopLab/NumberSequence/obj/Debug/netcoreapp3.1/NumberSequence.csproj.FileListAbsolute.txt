@@ -1,0 +1,12 @@
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

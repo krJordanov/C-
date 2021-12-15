@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.exe
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.deps.json
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.runtimeconfig.json
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.dll
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\bin\Debug\netcoreapp3.1\PassedFailed.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.dll
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\PassedFailed\obj\Debug\netcoreapp3.1\PassedFailed.genruntimeconfig.cache

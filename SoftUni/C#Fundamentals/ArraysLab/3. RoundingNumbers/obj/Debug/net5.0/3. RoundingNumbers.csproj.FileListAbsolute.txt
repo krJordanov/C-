@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.exe
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.deps.json
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.runtimeconfig.json
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.dll
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\ref\3. RoundingNumbers.dll
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\bin\Debug\net5.0\3. RoundingNumbers.pdb
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.dll
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\ref\3. RoundingNumbers.dll
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.pdb
+C:\Users\bkr7\source\repos\ArraysLab\3. RoundingNumbers\obj\Debug\net5.0\3. RoundingNumbers.genruntimeconfig.cache

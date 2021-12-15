@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.exe
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.deps.json
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.runtimeconfig.json
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.dll
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\bin\Debug\netcoreapp3.1\Numbers1NwithStep3.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.dll
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.pdb
+C:\Users\bkr7\source\repos\ForLoopLab\Numbers1NwithStep3\obj\Debug\netcoreapp3.1\Numbers1NwithStep3.genruntimeconfig.cache

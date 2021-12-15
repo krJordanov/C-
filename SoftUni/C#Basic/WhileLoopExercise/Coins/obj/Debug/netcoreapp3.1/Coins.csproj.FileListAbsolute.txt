@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+C:\Users\bkr7\source\repos\WhileLoopExercise\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

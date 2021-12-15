@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.exe
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.deps.json
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.runtimeconfig.json
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.dll
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\bin\Debug\netcoreapp3.1\MetriConverter.pdb
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.dll
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.pdb
+C:\Users\bkr7\source\repos\Conditional Statements-Exercise\MetriConverter\obj\Debug\netcoreapp3.1\MetriConverter.genruntimeconfig.cache

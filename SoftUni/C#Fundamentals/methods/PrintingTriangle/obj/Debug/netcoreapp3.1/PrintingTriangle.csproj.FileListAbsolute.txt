@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.exe
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.deps.json
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.dll
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.pdb
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.dll
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.pdb
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.genruntimeconfig.cache
+C:\Users\bkr7\source\repos\methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.csproj.AssemblyReference.cache

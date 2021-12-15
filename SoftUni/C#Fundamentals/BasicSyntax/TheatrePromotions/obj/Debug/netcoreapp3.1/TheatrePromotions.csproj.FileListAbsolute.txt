@@ -1,0 +1,13 @@
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.csprojAssemblyReference.cache
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.exe
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.deps.json
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.runtimeconfig.json
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.dll
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\bin\Debug\netcoreapp3.1\TheatrePromotions.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.dll
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.pdb
+C:\Users\bkr7\source\repos\BasicSyntax\TheatrePromotions\obj\Debug\netcoreapp3.1\TheatrePromotions.genruntimeconfig.cache

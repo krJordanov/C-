@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.exe
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.deps.json
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.runtimeconfig.json
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.dll
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\ref\8. MathPower.dll
+C:\Users\bkr7\source\repos\methods\8. MathPower\bin\Debug\net5.0\8. MathPower.pdb
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.dll
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\ref\8. MathPower.dll
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.pdb
+C:\Users\bkr7\source\repos\methods\8. MathPower\obj\Debug\net5.0\8. MathPower.genruntimeconfig.cache
