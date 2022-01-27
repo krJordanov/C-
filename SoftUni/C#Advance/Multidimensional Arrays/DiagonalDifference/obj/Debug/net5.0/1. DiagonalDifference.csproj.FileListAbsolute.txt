@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.exe
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\ref\1. DiagonalDifference.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\bin\Debug\net5.0\1. DiagonalDifference.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\ref\1. DiagonalDifference.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\1. DiagonalDifference\obj\Debug\net5.0\1. DiagonalDifference.genruntimeconfig.cache
