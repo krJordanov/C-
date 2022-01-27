@@ -1,0 +1,14 @@
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\Users\bkr7\source\repos\StacksAndQueuesss\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.exe
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.dll
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\bin\Debug\netcoreapp3.1\DefineAClassPerson.pdb
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.dll
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.pdb
+C:\Users\bkr7\source\repos\StacksAndQueuesss\DefineAClassPerson\obj\Debug\netcoreapp3.1\DefineAClassPerson.genruntimeconfig.cache
