@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.exe
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\ref\BasicStackOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\ref\BasicStackOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.exe
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\ref\BasicQueueOperations.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\net5.0\BasicQueueOperations.genruntimeconfig.cache
