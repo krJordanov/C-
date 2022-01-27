@@ -1,0 +1,16 @@
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.exe
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.deps.json
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\ref\FastFood.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\bin\Debug\net5.0\FastFood.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.csproj.AssemblyReference.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\ref\FastFood.dll
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.pdb
+C:\Users\bkr7\source\repos\StacksAndQueues\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache
